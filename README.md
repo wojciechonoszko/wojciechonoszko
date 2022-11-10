@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wojciechonoszko
-- 👀 I’m interested in htm, css, javascript, python, cybersecurity
-- 🌱 I’m currently learning html+css, javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in htm, css, javascript, React, Node.js, Python, Cybersecurity
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on useful projects.
 - 📫 How to reach me wojciechonoszko@gmail.com
 
 <!---
