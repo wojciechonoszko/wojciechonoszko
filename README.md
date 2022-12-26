@@ -24,7 +24,7 @@
    <img alt="MongoDB Logo" src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" width="300">
 </picture>
 <picture>
-   <img alt="HTML CSS Logo" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="300">
+   <img alt="HTML CSS Logo" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="300" style="background-color:powderblue;">
 </picture>
 <!---
 wojciechonoszko/wojciechonoszko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
