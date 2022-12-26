@@ -6,10 +6,11 @@
 - 💞️ I’m looking to collaborate on useful projects.
 - 📫 wojciechonoszko@gmail.com https://wojciechonoszko.github.io/onsoft-by-wojciech-onoszko
 
-
+<picture>
+   <img alt="Computer it's my life" src="https://ih1.redbubble.net/image.673735629.1922/flat,750x1000,075,f.u4.jpg" width="600">
+</picture>
 <picture>
    <img alt="Shows an illustrated text JavaScript and monitor." src="https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg" width="300">
-   
 </picture>
 <picture>
    <img alt="TypeScript Logo" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="300">
