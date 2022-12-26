@@ -1,10 +1,10 @@
 
 
 # 👋 ***Hi, I’m @wojciechonoszko JuniorDeveloper***
-- 👀 I’m interested in html, css, javascript/ TypeScript, React, Node.js
-- 🌱 I’m currently learning TypeScript, React and Node.js
+- 👀 My technology stack is based on HTML, CSS, JavaScript, React, Node.js and everything what is necessary to build modern websites and apps.
+- 🌱 I’m currently learning TypeScript and I expand my knowledge on React and Node.js
 - 💞️ I’m looking to collaborate on useful projects.
-- 📫 How to reach me wojciechonoszko@gmail.com
+- 📫 wojciechonoszko@gmail.com https://wojciechonoszko.github.io/onsoft-by-wojciech-onoszko
 
 
 <picture>
@@ -14,7 +14,15 @@
 <picture>
    <img alt="TypeScript Logo" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="300">
 </picture>
-
+<picture>
+   <img alt="React Logo" src="https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124" width="300">
+</picture>
+<picture>
+   <img alt="Node.js Logo" src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png" width="300">
+</picture>
+<picture>
+   <img alt="MongoDB Logo" src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" width="300">
+</picture>
 
 <!---
 wojciechonoszko/wojciechonoszko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
