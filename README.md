@@ -4,7 +4,8 @@
 - 👀 My technology stack is based on HTML, CSS, JavaScript, React, Node.js and everything what is necessary to build modern websites and apps.
 - 🌱 I’m currently learning TypeScript and I expand my knowledge on React and Node.js
 - 💞️ I’m looking to collaborate on useful projects.
-- 📫 wojciechonoszko@gmail.com <a href="https://wojciechonoszko.github.io/onsoft-by-wojciech-onoszko">Personal www</a>
+- 📫 wojciechonoszko@gmail.com 
+- :computer: <a href="https://wojciechonoszko.github.io/onsoft-by-wojciech-onoszko">Personal www</a>
 
 <picture>
    <img alt="Computer it's my life" src="https://ih1.redbubble.net/image.673735629.1922/flat,750x1000,075,f.u4.jpg" width="600" height="500">
